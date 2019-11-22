@@ -16,85 +16,85 @@ translate russian start_ff9cf5d0:
 translate russian start_02f832b7:
 
     # "This is your adoptive mother. What's her name?"
-    "Это твоя приемная мать. Как ее имя?"
+    "Как зовут твою мачеху?"
 
 # game/script.rpy:138
 translate russian start_912f04b3:
 
     # "This is your girlfriend. What's her name?"
-    "This is your girlfriend. What's her name?"
+    "Как зовут твою девушку?"
 
 # game/script.rpy:149
 translate russian jamiekissnonstop_2d36b74d:
 
     # "Testing"
-    "Testing"
+    "Тест"
 
 # game/script.rpy:150
 translate russian jamiekissnonstop_c67f9ef6:
 
     # "Beep beep"
-    "Beep beep"
+    "Бип-бип."
 
 # game/script.rpy:156
 translate russian startingday1_60c159b6:
 
     # "This is Shauna your best friend. Do you want her to be a female or do you want her to be transgender?"
-    "This is Shauna your best friend. Do you want her to be a female or do you want her to be transgender?"
+    "Это твоя подруга Шауна. Ты хочешь чтоб она была девушкой или трансгендером?"
 
 # game/script.rpy:172
 translate russian startit_468e24c6:
 
     # "*ALARM BEGINS TO RING*"
-    "*ALARM BEGINS TO RING*"
+    "*БУДИЛЬНИК НАЧИНАТ ЗВЕНЕТЬ*"
 
 # game/script.rpy:175
 translate russian startit_3722a3de:
 
     # mcm "Oh man I don't want to get up yet. I stayed up too late playing video games with Shauna."
-    mcm "Oh man I don't want to get up yet. I stayed up too late playing video games with Shauna."
+    mcm "Черт! Как же хочется спать. Не надо было играть в видеоигры до поздна с Шоной."
 
 # game/script.rpy:178
 translate russian startit_53809a3e:
 
     # mcm "Oh man I don't want to get up yet. I stayed up too late playing video games with Shawn."
-    mcm "Oh man I don't want to get up yet. I stayed up too late playing video games with Shawn."
+    mcm "Черт! Как же хочется спать. Не надо было играть в видеоигры до поздна с Шоном."
 
 # game/script.rpy:181
 translate russian shauna0_910e442a:
 
     # mcm "I don't have a choice though. I don't want to leave [g1] at the gym alone."
-    mcm "I don't have a choice though. I don't want to leave [g1] at the gym alone."
+    mcm "Хотя у меня нет выбора. Я не могу оставить [g1] на тренировке одну."
 
 # game/script.rpy:183
 translate russian shauna0_47da0d32:
 
     # mcm "I have around 28 minutes to get ready. I told her I'd be there at 6am. That's enough for a quick shower."
-    mcm "I have around 28 minutes to get ready. I told her I'd be there at 6am. That's enough for a quick shower."
+    mcm "Я сказал что буду там в 6 утра. У меня есть около 28 мин на сборы. Этого достаточно чтоб успеть по быстрому в душ."
 
 # game/script.rpy:185
 translate russian shauna0_36346d14:
 
     # mcm "This is the last time I'll be getting out of this bed. Tomorrow night I'll be in a dorm room."
-    mcm "This is the last time I'll be getting out of this bed. Tomorrow night I'll be in a dorm room."
+    mcm "Это последний раз когда я проснулся в этой кроваи. Завтра вечером я буду уже в общаге."
 
 # game/script.rpy:186
 translate russian shauna0_73993aab:
 
     # mcm "I should be grateful for this moment but all I can think about is how I want to go back to sleep. I have to get up before I give in to temptation."
-    mcm "I should be grateful for this moment but all I can think about is how I want to go back to sleep. I have to get up before I give in to temptation."
+    mcm "Это должно быть приятно, но все мои мысли только о сне. Я должен встать пока снова не вырубился."
 
 # game/script.rpy:188
 translate russian shauna0_be45e8b7:
 
     # mcm "I usually like to be able to take my time getting ready. Not able to do that today though. Just a quick shower and I'm out the door."
-    mcm "I usually like to be able to take my time getting ready. Not able to do that today though. Just a quick shower and I'm out the door."
+    mcm "Мне обычно нужно время приготовиться, но сегодня его нет. По быстрому в душ и бежать."
 
 # game/script.rpy:190
 translate russian shauna0_ec4e2602:
 
     # mcm "There's a lot I have to do today. I have gym with [g1], then I'm meant to meet Damien, my new teammate. I want to have time to do something with [am]. Then we leave at 10pm sharp."
-    mcm "There's a lot I have to do today. I have gym with [g1], then I'm meant to meet Damien, my new teammate. I want to have time to do something with [am]. Then we leave at 10pm sharp."
+    mcm "Сегодня много работы. Сначала тренировка с [g1], потом встреча с моим новым товарищем по команде Дамиеном. Так же я хочу встретиться с [am]. И в 10 вечера я уезжаю."
 
 # game/script.rpy:191
 translate russian shauna0_fc5b9947:
@@ -54244,11 +54244,11 @@ translate russian strings:
 
     # game/script.rpy:157
     old "Female"
-    new "Female"
+    new "Девушка"
 
     # game/script.rpy:157
     old "Transgender"
-    new "Transgender"
+    new "Трансгендер"
 
     # game/script.rpy:258
     old "You make my everyday"
