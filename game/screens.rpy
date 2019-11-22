@@ -808,6 +808,11 @@ screen preferences():
                         textbutton _("Mute All"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
+                    vbox:
+                        style_prefix "radio"
+                        label _("Language")
+                        textbutton _("English") action Language(None)
+                        textbutton _("Russian") action Language("russian")        
 
 
 style pref_label is gui_label

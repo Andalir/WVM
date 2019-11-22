@@ -118,8 +118,8 @@ define na = Character ("Nathan", who_outlines=[ (2, "#000000") ], what_outlines=
 define nar = Character ("",color="#00BFFF", who_outlines=[ (2, "#000000") ], what_outlines=[ (2, "#000000") ])
 label start:
  scene intro with dissolve
- "What is your first name?"
- $ main = renpy.input("(Default is Ethan)")
+ "Как тебя зовут?"
+ $ main = renpy.input("(По умолчанию Этан)")
  $ main = main.strip()
  if main == "":
         $ main="Ethan"

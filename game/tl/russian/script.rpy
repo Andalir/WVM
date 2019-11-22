@@ -4,19 +4,19 @@
 translate russian start_4f56708d:
 
     # "What is your first name?"
-    "What is your first name?"
+    "Как тебя зовут?"
 
 # game/script.rpy:126
 translate russian start_ff9cf5d0:
 
     # "What's your last name?"
-    "What's your last name?"
+    "Как твоя фамилия?"
 
 # game/script.rpy:132
 translate russian start_02f832b7:
 
     # "This is your adoptive mother. What's her name?"
-    "This is your adoptive mother. What's her name?"
+    "Это твоя приемная мать. Как ее имя?"
 
 # game/script.rpy:138
 translate russian start_912f04b3:
@@ -54705,4 +54705,3 @@ translate russian strings:
     # game/script.rpy:12508
     old "Go home"
     new "Go home"
-
